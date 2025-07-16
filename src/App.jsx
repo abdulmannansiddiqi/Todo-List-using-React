@@ -24,9 +24,7 @@ function App() {
               <button className='bg-slate-200 hover:bg-slate-700 text-black p-2 py-1 text-sm rounded-md mx-1 font-bold'>Edit</button>
               <button className='bg-slate-200 hover:bg-slate-700 text-black p-2 py-1 text-sm rounded-md mx-1 font-bold'>Del</button>
             </div>
-          </div>    
-
-          
+          </div> 
         </div>
       </div>
     </>
