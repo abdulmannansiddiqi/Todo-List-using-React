@@ -10,8 +10,9 @@ function App() {
   const [todos, settodos] = useState([])
   const handleAdd = () => {
     settodos([...todos, { todo, isCompleted: false }])
-    // settodo("")
-    // console.log(todos)
+   
+     settodo("")
+    console.log(todos)
   }
   const handleChange = (e) => {
     settodos(e.target.value)
