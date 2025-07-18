@@ -13,10 +13,7 @@ const Navbar = () => {
         <li className='hover:font-bold cursor-pointer transition-all duration-100'>Home</li>
         <li className='hover:font-bold cursor-pointer '>Your Task</li>
       </ul>
-        <li className='hover:font-bold cursor-pointer transition-all duration-100'>Home</li>
-        <li className='hover:font-bold cursor-pointer '>Your Task</li>
-      </ul>
-    </nav>
+        
   ) 
 }
 
